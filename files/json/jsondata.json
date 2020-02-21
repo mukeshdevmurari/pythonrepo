@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "name": "Rakesh",
+            "city": "Junagadh"
+        },
+        {
+            "name": "Rajesh",
+            "city": "Rajkot"
+        },
+		{
+            "name": "Vrajesh",
+            "city": "Ahmedabad"
+        }
+    ]
+}
